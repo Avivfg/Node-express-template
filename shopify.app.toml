@@ -2,7 +2,7 @@
 
 name = "boa-ideas-home-assignment"
 client_id = "94ffbec8c03cb2395073608ffd0986a5"
-application_url = "https://portraits-walked-evening-nitrogen.trycloudflare.com"
+application_url = "https://minimum-illness-electoral-underwear.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,10 +11,10 @@ scopes = "read_customers"
 
 [auth]
 redirect_urls = [
-  "https://portraits-walked-evening-nitrogen.trycloudflare.com/auth/callback",
-  "https://portraits-walked-evening-nitrogen.trycloudflare.com/auth/shopify/callback",
-  "https://portraits-walked-evening-nitrogen.trycloudflare.com/api/auth/callback",
-  "https://portraits-walked-evening-nitrogen.trycloudflare.com/.shopify/graphiql/auth/callback"
+  "https://minimum-illness-electoral-underwear.trycloudflare.com/auth/callback",
+  "https://minimum-illness-electoral-underwear.trycloudflare.com/auth/shopify/callback",
+  "https://minimum-illness-electoral-underwear.trycloudflare.com/api/auth/callback",
+  "https://minimum-illness-electoral-underwear.trycloudflare.com/.shopify/graphiql/auth/callback"
 ]
 
 [webhooks]
