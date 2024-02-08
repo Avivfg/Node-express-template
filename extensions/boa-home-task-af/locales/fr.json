@@ -1,3 +1,5 @@
 {
-  "welcome": "Bienvenue dans l'extension {{target}}!"
+	"welcome": "Bienvenue dans l'extension {{target}}!",
+	"save_cart": "Enregistrez votre panier",
+	"cart_saved": "Ajout des produits sélectionnés à votre panier enregistré"
 }

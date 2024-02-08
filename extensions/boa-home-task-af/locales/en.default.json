@@ -1,3 +1,5 @@
 {
-  "welcome": "Welcome to the {{target}} extension!"
+	"welcome": "Welcome to the {{target}} extension!",
+	"save_cart": "Save your cart",
+	"cart_saved": "Added the selected products to your saved cart"
 }
